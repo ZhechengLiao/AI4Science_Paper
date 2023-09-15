@@ -1,4 +1,4 @@
-# AI4Science Paper & Notes
+AI4Science Paper & Notes
 ----
 |Paper|Notes|Code|
 |--------|-------|-------|
